@@ -9,6 +9,7 @@ on:
       - Dockerfile
       - handler.py
       - requirements.txt
+      - setup_validate.py
       - .github/workflows/docker-image.yml
 
 jobs:
